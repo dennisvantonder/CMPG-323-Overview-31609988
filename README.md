@@ -6,7 +6,7 @@ This repository is used to give an overview of the projects to be done in this m
 ## Stucture of projects:
 Projects will each have their own repository as this will be easier to keep track of each project within their own repository as well as linking repositories is always an option.
 
-### Repository overview:
+#### Repository overview:
 - Project 1 repository (overview + Agile & Scrum).
 - Project 2 repository (API development).
 - Project 3 repository (Standards & Patterns).
@@ -14,7 +14,7 @@ Projects will each have their own repository as this will be easier to keep trac
 - Project 5 repository (Reporting & Monitoring).
 
 ## Branching strategy:
-The branching strategy I will use for each project is as follows:
+#### The branching strategy I will use for each project is as follows:
 1. There will be a main or master branch that will be used as the backup or stable version.
 2. There will be a develop branch where new features will be created.
 3. Features will be created on their own separete branch and will be merged with the develop branch once implemented.
