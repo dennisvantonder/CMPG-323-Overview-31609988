@@ -23,6 +23,7 @@ Projects will each have their own repository as this will be easier to keep trac
 
 ![Branching stategy](https://github.com/dennisvantonder/CMPG-323-Overview-31609988/blob/main/branching_strat.drawio.png)
 
-## How .gitignore file will be used:
+## The use of .gitignore files:
+.gitignore will be used in each project to list files that should be ignored when commiting changes, these files will include files that contain sensitive information or credentials, system files, log files and files that I want git to ignore.
 
 ## Storage of credentials and sensitive information:
