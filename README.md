@@ -21,6 +21,8 @@ Projects will each have their own repository as this will be easier to keep trac
 4. Bug fixes/hot fixes will also be created on their own branch and will be merged with the develop branch.
 5. After each successfull feature or fix is added to the develop branch and the current version of the develop branch is stable, it will be merged with the main branch to be kept as the latest backup.
 
+![Branching stategy]()
+
 ## How .gitignore file will be used:
 
 ## Storage of credentials and sensitive information:
