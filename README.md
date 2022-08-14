@@ -7,7 +7,7 @@ This repository is used to give an overview of the projects to be done in this m
 Projects will each have their own repository as this will be easier to keep track of each project within their own repository as well as linking repositories is always an option.
 
 #### Repository overview:
-- Project 1 repository (overview + Agile & Scrum).
+- Project 1 repository (Overview + Agile & Scrum).
 - Project 2 repository (API development).
 - Project 3 repository (Standards & Patterns).
 - Project 4 repository (Testing & RPA).
