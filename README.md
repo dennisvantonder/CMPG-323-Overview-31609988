@@ -1,7 +1,7 @@
 # Project 1 repo:
 
 ## Quick overview:
-This repository is used to give an overview of the projects to be done in this module. It will also be used as a guide for planning purposes and how the rest of the projects will be structured as well as the branching strategy that will be used in each project.
+This repository is used to give an overview of the projects to be done in this module. It will also be used as a guide for planning purposes and how the rest of the projects will be structured as well as the branching strategy that will be used in each project. I also discuss how the igitignore file will be used and how I will deal with sensitive information within each project.
 
 ## Stucture of projects:
 Projects will each have their own repository as this will be easier to keep track of each project within their own repository as well as linking repositories is always an option.
