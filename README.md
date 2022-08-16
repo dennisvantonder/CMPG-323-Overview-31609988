@@ -19,7 +19,7 @@ Only one Kanban project will be created. This project is called CMPG 323 Plannin
 ![Diagram](https://github.com/dennisvantonder/CMPG-323-Overview-31609988/blob/main/diagram.drawio.png)
 
 ## Branching strategy:
-#### The branching strategy I will use for each project is as follows:
+#### The branching strategy I will use for each repository is as follows:
 1. There will be a main or master branch that will be used as the backup or stable version.
 2. There will be a develop branch where new features will be created.
 3. Features will be created on their own separete branch and will be merged with the develop branch once implemented.
