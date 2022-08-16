@@ -16,7 +16,7 @@ Projects will each have their own repository as this will be easier to keep trac
 #### Project overview:
 Only one Kanban project will be created. This project is called CMPG 323 Planning, and this project will be linked to every repository that will be created through the semester. Here is a diagram to explain how the project will be integrated with each repository:
 
-![Diagram]()
+![Diagram](https://github.com/dennisvantonder/CMPG-323-Overview-31609988/blob/main/diagram.drawio.png)
 
 ## Branching strategy:
 #### The branching strategy I will use for each project is as follows:
