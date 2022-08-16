@@ -7,11 +7,11 @@ This repository is used to give an overview of the projects to be done in this m
 Projects will each have their own repository as this will be easier to keep track of each project within their own repository. If I require work from an earlier project, forks will be used to fork the earlier repository with the new one.
 
 #### Repository overview:
-- Project 1 repository (Overview + Agile & Scrum).
+- Project 1 repository (Overview + Scrum & Setup).
 - Project 2 repository (API development).
-- Project 3 repository (Standards & Patterns).
+- Project 3 repository (Standards & Patterns, Web app).
 - Project 4 repository (Testing & RPA).
-- Project 5 repository (Reporting & Monitoring).
+- Project 5 repository (Power BI and reporting).
 
 #### Project overview:
 Only one Kanban project will be created. This project is called CMPG 323 Planning, and this project will be linked to every repository that will be created through the semester. Here is a diagram to explain how the project will be integrated with each repository:
