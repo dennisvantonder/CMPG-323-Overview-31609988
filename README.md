@@ -32,3 +32,7 @@ Only one Kanban project will be created. This project is called CMPG 323 Plannin
 .gitignore will be used in each project to list files that should be ignored when commiting changes, these files will include files that contain sensitive information or credentials, system files, log files and files that I want git to ignore.
 
 ## Storage of credentials and sensitive information:
+
+## Burndown chart:
+This Burndown chart is created in excel and will be continuously updated throuhout the semester.
+![Burndown chart]()
