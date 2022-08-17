@@ -36,4 +36,4 @@ Only one Kanban project will be created. This project is called CMPG 323 Plannin
 ## Burndown chart:
 This Burndown chart is created in excel and will be continuously updated throuhout the semester.
 
-![Burndown chart](https://github.com/dennisvantonder/CMPG-323-Overview-31609988/blob/main/Burndown%20chart.png)
+![Burndown chart]()
