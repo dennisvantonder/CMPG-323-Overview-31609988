@@ -32,6 +32,7 @@ Only one Kanban project will be created. This project is called CMPG 323 Plannin
 .gitignore will be used in each project to list files that should be ignored when commiting changes, these files will include files that contain sensitive information or credentials, system files, log files and files that I want git to ignore.
 
 ## Storage of credentials and sensitive information:
+I will be using git-secret to store credentials and sensitive information. git-sercret is a bash tool that is used to encrypt files in a repository. git-secret uses gpg to encrypt and decrypt files, a public key is used to encrypt files and a personal private key that is given to authorised users is used to decrypt files. The tell command is used to give users their own key and to give them access to the secret files. I will be implementing git-secret on a project's repo to save passwords, API keys and other sensitive information. These files will be encrypted and will not be accessible to anyone, except for people I give access to.
 
 ## Burndown chart:
 This Burndown chart is created in excel and will be continuously updated throuhout the semester.
