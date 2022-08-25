@@ -38,3 +38,9 @@ I will be using git-secret to store credentials and sensitive information. git-s
 This Burndown chart is created in excel and will be continuously updated throuhout the semester.
 
 ![Burndown chart](https://github.com/dennisvantonder/CMPG-323-Overview-31609988/blob/main/Burndown%20Chart.png)
+
+## Training completed:
+
+#### Badges of training completed:
+- [Introduction to git](https://docs.microsoft.com/en-us/learn/achievements/learn.student-evangelism.introduction-to-git.badge?username=DennisVanTonder-7832)
+- [How to create and modify a git project](https://docs.microsoft.com/en-us/learn/achievements/learn.student-evangelism.create-git-project.badge?username=DennisVanTonder-7832)
