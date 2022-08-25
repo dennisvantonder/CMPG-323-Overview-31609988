@@ -44,3 +44,9 @@ This Burndown chart is created in excel and will be continuously updated throuho
 #### Badges of training completed:
 - [Introduction to git](https://docs.microsoft.com/en-us/learn/achievements/learn.student-evangelism.introduction-to-git.badge?username=DennisVanTonder-7832)
 - [How to create and modify a git project](https://docs.microsoft.com/en-us/learn/achievements/learn.student-evangelism.create-git-project.badge?username=DennisVanTonder-7832)
+- [Collaborate with Git](https://docs.microsoft.com/en-us/learn/achievements/learn.student-evangelism.collaborate-with-git.badge?username=DennisVanTonder-7832)
+- [Edit code through branching and merging in Git](https://docs.microsoft.com/en-us/learn/achievements/learn.student-evangelism.branch-merge-git.badge?username=DennisVanTonder-7832)
+- [Describe cloud computing](https://docs.microsoft.com/en-us/learn/achievements/learn.wwl.describe-cloud-computing.badge?username=DennisVanTonder-7832)
+- [Describe benefits of using cloud computing](https://docs.microsoft.com/en-us/learn/achievements/learn.wwl.describe-benefits-of-using-cloud-services.badge?username=DennisVanTonder-7832)
+- [Describevcloud service types](https://docs.microsoft.com/en-us/learn/achievements/learn.wwl.describe-cloud-service-types.badge?username=DennisVanTonder-7832)
+- [Describe the core achitectural components of Azure](https://docs.microsoft.com/en-us/learn/achievements/learn.wwl.describe-core-architectural-components-of-azure.badge?username=DennisVanTonder-7832)
