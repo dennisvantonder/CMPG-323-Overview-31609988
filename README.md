@@ -48,7 +48,7 @@ This Burndown chart is created in excel and will be continuously updated throuho
 - [Edit code through branching and merging in Git](https://docs.microsoft.com/en-us/learn/achievements/learn.student-evangelism.branch-merge-git.badge?username=DennisVanTonder-7832)
 - [Describe cloud computing](https://docs.microsoft.com/en-us/learn/achievements/learn.wwl.describe-cloud-computing.badge?username=DennisVanTonder-7832)
 - [Describe benefits of using cloud computing](https://docs.microsoft.com/en-us/learn/achievements/learn.wwl.describe-benefits-of-using-cloud-services.badge?username=DennisVanTonder-7832)
-- [Describevcloud service types](https://docs.microsoft.com/en-us/learn/achievements/learn.wwl.describe-cloud-service-types.badge?username=DennisVanTonder-7832)
+- [Describe cloud service types](https://docs.microsoft.com/en-us/learn/achievements/learn.wwl.describe-cloud-service-types.badge?username=DennisVanTonder-7832)
 - [Describe the core achitectural components of Azure](https://docs.microsoft.com/en-us/learn/achievements/learn.wwl.describe-core-architectural-components-of-azure.badge?username=DennisVanTonder-7832)
 - [Describe Azure compute and networking service](https://docs.microsoft.com/en-us/learn/achievements/learn.wwl.describe-azure-compute-networking-services.badge?username=DennisVanTonder-7832)
 - [Describe Azure storage services](https://docs.microsoft.com/en-us/learn/achievements/learn.wwl.describe-azure-storage-services.badge?username=DennisVanTonder-7832)
