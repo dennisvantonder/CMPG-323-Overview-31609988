@@ -7,9 +7,9 @@ This repository is used to give an overview of the projects to be done in this m
 Projects will each have their own repository as this will be easier to keep track of each project within their own repository. If I require work from an earlier project, forks will be used to fork the earlier repository with the new one.
 
 #### Repository overview:
-- Project 1 repository (Overview + Scrum & Setup).
-- Project 2 repository (API development).
-- Project 3 repository (Standards & Patterns, Web app).
+- Project 1 repository (Overview + Scrum & Setup). This repository
+- Project 2 repository (API development). [CMPG323-Project2-31609988]()
+- Project 3 repository (Standards & Patterns, Web app). [CMPG323-Project3-31609988]()
 - Project 4 repository (Testing & RPA).
 - Project 5 repository (Power BI and reporting).
 
