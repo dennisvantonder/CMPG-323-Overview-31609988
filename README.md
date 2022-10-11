@@ -8,9 +8,9 @@ Projects will each have their own repository as this will be easier to keep trac
 
 #### Repository overview:
 - Project 1 repository (Overview + Scrum & Setup). This repository
-- Project 2 repository (API development). [CMPG323-Project2-31609988](https://github.com/dennisvantonder/CMPG-323-Project-2-31609988)
-- Project 3 repository (Standards & Patterns, Web app). [CMPG323-Project3-31609988](https://github.com/dennisvantonder/CMPG323-Project-3-31609988)
-- Project 4 repository (Testing & RPA).
+- Project 2 repository (API development). [CMPG323-Project-2-31609988](https://github.com/dennisvantonder/CMPG-323-Project-2-31609988)
+- Project 3 repository (Standards & Patterns, Web app). [CMPG323-Project-3-31609988](https://github.com/dennisvantonder/CMPG323-Project-3-31609988)
+- Project 4 repository (Testing & RPA). [CMPG323-Project-4-31609988](https://github.com/dennisvantonder/CMPG323-Project-4-31609988)
 - Project 5 repository (Power BI and reporting).
 
 #### Project overview:
