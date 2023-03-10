@@ -1,5 +1,7 @@
 # Project 1 repo:
-### University project:
+## Subject: IT Developments
+The IT-environment changes at a fast pace. That is why we have a module with content regularly updated to keep up with newer developments in the IT-environment. The module is presented at the end of the degree to allow students to integrate their knowledge from other modules into this module. In the module, a series of projects are undertaken. Self-study and teamwork are important parts of these projects. These projects' goal is to expose the student to new IT challenges and appropriate technology to address these challenges. The development of soft skills is also part of the primary goal of this module.
+## University project:
 Project was about Git and GitHub and demonstrate your git skills.
 Mark I recieved on this project was: 89%
 
