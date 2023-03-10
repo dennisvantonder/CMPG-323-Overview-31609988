@@ -1,4 +1,7 @@
 # Project 1 repo:
+### University project:
+Project was about Git and GitHub and demonstrate your git skills.
+Mark I recieved on this project was: 89%
 
 ## Quick overview:
 This repository is used to give an overview of the projects to be done in this module. It will also be used as a guide for planning purposes and how the rest of the projects will be structured. The branching strategy that will be used in each project is also discussed within this repository. I also discuss how the .gitignore file will be used and how I will deal with sensitive information within each project. This repository will be used throughout the semester to keep track of progress that is made with each project through the kanban project that is linked to this repository.
